@@ -1,0 +1,1 @@
+SELECT first_name AS firstName, last_name AS lastName, advisor_id FROM student WHERE advisor_id IS NOT NULL ;
